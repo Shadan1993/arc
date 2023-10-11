@@ -38,7 +38,7 @@ const GeneralProjectInfo = () => {
           xs={12}
           sx={{
             padding: "16px",
-            borderBottom: `1px solid var(${Natural[500]})`,
+            borderBottom: `1px solid var(${Natural[400]})`,
             background: "var(--ffffff, #FFF)",
             boxShadow: "1px 0px 18px 0px rgba(0, 0, 0, 0.10)",
           }}
