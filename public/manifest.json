@@ -1,0 +1,33 @@
+{
+  "name": "Mr.bazsazi-Constractor",
+  "short_name": "ACRS",
+  "theme_color": "#1b1340",
+  "background_color": "#1b1340",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "maskable.png",
+      "sizes": "196x196",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "logo192.png",
+      "type": "image/png",
+      "sizes": "192*192"
+    },
+    {
+      "src": "logo256.png",
+      "type": "image/png",
+      "sizes": "256*256"
+    },
+    {
+      "src": "logo384.png",
+      "type": "image/png",
+      "sizes": "384*384"
+    }
+  ]
+}
